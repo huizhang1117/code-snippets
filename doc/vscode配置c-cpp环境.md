@@ -18,5 +18,6 @@ vscode-plugin
     - Code-runner:Run In Terminal
     - Code-runner:Save File Before Run
 3. 写个c的helloworld测试，在运行前要点击运行键右侧的下箭头，选择Run Code
-![](img/vscode%E8%BF%90%E8%A1%8Cc%E4%BB%A3%E7%A0%81.png)
+
+![vscode-run code](img/vscode%E8%BF%90%E8%A1%8Cc%E4%BB%A3%E7%A0%81.png)
 
